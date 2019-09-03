@@ -1,22 +1,12 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Hello World"
 date: 2019-09-03 10:19:28 -0400
-categories: jekyll update
+categories: Initial update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello World! 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+처음으로 제 웹사이트에 글을 써보네요. 
 
-Jekyll also offers powerful support for code snippets:
+개발 관련 공부 글을 주로 올릴 예정이며 최대한 성실하게 글을 올리는게 목표입니다.
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+앞으로 열심히 해볼게요!
