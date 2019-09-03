@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "DSDEV_log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dasol Yun"
+name                     : "DSDEV"
 description              : "Ready."
 url                      : "https://dsol0115.github.io"
 baseurl                  : "/dspage"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dasol Yun"
+  name             : "Dsdev"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ready."
   location         : "Somewhere"
