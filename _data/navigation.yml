@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: https://dsol0115.github.io/dspage
+  - title: "Archive"
+    url: /year-archive/
+  - title: "tag"
+    url: /tags/
+  - title: "Category"
+    url: /categories/
