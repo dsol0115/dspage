@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2019-09-03 10:19:28 -0400
-categories: Initial update
+categories: Initialupdate
 ---
 Hello World! 
 
