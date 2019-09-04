@@ -7,17 +7,17 @@ categories: Java
 
 String 에서 Int으로
 
-"""
+~~~
 String from = "123";
 int to = Integer.parseInt(from);
-"""
+~~~
 
 Int에서 String으로
 
-"""
+~~~
 int from = 123;
 String to = Integer.toString(from);
-"""
+~~~
 
 
 
