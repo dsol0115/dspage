@@ -8,8 +8,8 @@ categories: Books
 
 소제목에 소설로 배우는 해킹과 보안이라는 문장을 보고 굉장히 끌려서 읽어 보게 되었다.
 
-![bookcode1](./assets/images/bookcode1.jpg)
-![bookcode2](./assets/images/bookcode2.jpg)
+![bookcode1](../assets/images/bookcode1.jpg)
+![bookcode2](../assets/images/bookcode2.jpg)
 
 일단 책에 해킹과 관련된 용어들에 대한 기본적인 설명이 되어 있어서 확실히 해킹과 보안 분야에 관심이 생길 수 있도록 한다.
 
@@ -61,5 +61,5 @@ categories: Books
 - 루트킷(rootkit): 해킹 대상자가 해킹 사실을 알아차리지 못하도록 하는 기술이 포함된 해킹 도구 모음
 
 
-[책에 나온 용어 정리](./assets/악성코드를_읽고.txt)
+[책에 나온 용어 정리](../assets/악성코드를_읽고.txt)
 
