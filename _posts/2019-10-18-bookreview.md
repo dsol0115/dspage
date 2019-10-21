@@ -1,7 +1,7 @@
 ---
 title: "데이터를 철학하다: 어떻게 데이터는 지혜가 되는가 리뷰및 정리"
 date: 2019-10-18 22:33:00 -0400
-categories: Thoughts
+categories: Books
 author_profile: false
 layout: splash
 header:
