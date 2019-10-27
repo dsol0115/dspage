@@ -5,7 +5,7 @@ categories: Algorithm
 tag: Algorithm
 ---
 
-![](https://www.youtube.com/watch?v=waPQP2TDOGE) 보고 정리 한것.
+[Youtube:The Ultimate Big O Notation Tutorial (Time & Space Complexity For Algorithms)](https://www.youtube.com/watch?v=waPQP2TDOGE) 보고 정리 한것.
 
 Big O notation 은 결국 복잡도 그래프의 꼬리 모양을 보는 것이라 생각하면 쉽다. 
 입력 값이 아주 많을 때 걸리는 시간.
